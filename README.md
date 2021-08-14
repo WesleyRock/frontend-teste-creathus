@@ -1,16 +1,22 @@
-# Api RESTful Spring Boot
+# Frontend Crud de Contatos
 
-Api de crud de alunos e turmas desenvolvido com spring boot.
+Desenvolvido com vuejs.
 
 ## Tecnologias utilizadas 
 
-- Spring Boot
-- MySQL
-
+- Vuejs
+- Vuetify
+- Vue Router 
+ 
 ## Instruções para Build
 
-### Opção 1
-
 - Clone o repositório
-- Inicie o servidor utilizando as IDES: IntelliJ ou Eclipse 
-- Caso queira alterar as configurações do banco acesse o arquivo ``application.properties``
+
+``` bash
+# install dependencies
+npm install
+
+# serve app
+npm run serve
+
+```

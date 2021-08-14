@@ -1,24 +1,16 @@
-# creathus
+# Api RESTful Spring Boot
 
-## Project setup
-```
-npm install
-```
+Api de crud de alunos e turmas desenvolvido com spring boot.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tecnologias utilizadas 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Spring Boot
+- MySQL
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Instruções para Build
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Opção 1
+
+- Clone o repositório
+- Inicie o servidor utilizando as IDES: IntelliJ ou Eclipse 
+- Caso queira alterar as configurações do banco acesse o arquivo ``application.properties``
